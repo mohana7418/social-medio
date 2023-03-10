@@ -1,2 +1,2 @@
-# social-medio
+# social-media
 good for socity
